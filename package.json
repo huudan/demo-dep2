@@ -1,6 +1,6 @@
 {
   "name": "demo-dep2",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/huudan/demo-dep2#readme",
   "dependencies": {
+    "angular-ui-bootstrap": "^2.1.3",
     "bootstrap": "^3.3.7"
   }
 }
